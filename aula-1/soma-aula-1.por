@@ -6,7 +6,7 @@ programa {
     leia(numeroUm)
 
     escreva("Digite outro número: ")
-    leia("numeroDois")
+    leia(numeroDois)
 
     resultado = numeroUm + numeroDois
 
