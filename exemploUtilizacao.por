@@ -1,50 +1,23 @@
-# Aulas PORTUGOL
-
-Aprendizado sobre PORTUGOL - UC6
-
----
-
-## 💻 Como utilizar
-
-
-```
 //O comando programa é obrigatório  
-```
-
 programa  {  
-
-```
-
     //Inclusões de bibliotecas  
     // - Quando houver a necessidade de utilizar  
     //   uma ou mais bibliotecas, as inclusões  
     //   devem aparecer antes de qualquer declaração    
-    
-    
+  
+    /*  
      *  Dentro do programa é permitido declarar  
      *  variáveis globais, constantes globais e 
      *  funções em qualquer ordem. 
-      
+     */  
   
     //Declarações de funções somente  
-    //são permitidas dentro do programa. 
-```
-
-funcao inicio() {  
-
-
-```
+    //são permitidas dentro do programa.      
+    funcao inicio()      {  
         /* 
          * Declarações de variáveis locais,  
          * constantes locais, estruturas de 
          * controle e expressões. 
          */  
-```
-
-}  
+    }  
 } 
-
----
-
-### 🔗 Links
-[![Portugol](https://img.shields.io/badge/Portugol-000?style=for-the-badge&logo=&logoColor=white)](https://portugol.dev/)

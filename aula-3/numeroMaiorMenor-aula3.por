@@ -7,10 +7,11 @@ programa {
     leia(numero2)
 
     se (numero1 > numero2){
-        escreva("O maior número é ", numero1)
-   } senao {
-        escreva("O maior número é ", numero2)
+        escreva(numero1, " é maior que o ", numero2)
+   } senao se (numero2 > numero1) {
+        escreva(numero2, "é maior que número o ", numero1)
+} senao se (numero1 == numero2) {
+        escreva("Os números são iguais")
 }
-  }
 }
-
+}
