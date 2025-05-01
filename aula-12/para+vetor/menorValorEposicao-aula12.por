@@ -10,7 +10,7 @@ programa {
 
     para(inteiro i = 1; i < 7; i++){
       se(numeros[i] < menor){
-        menor = numero[i]
+        menor = numeros[i]
         menorPosicao = i
       }
     }
