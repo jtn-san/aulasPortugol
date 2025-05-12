@@ -13,7 +13,7 @@ logico encontrado = falso
 			escreva("[",m4[linha][coluna],"] \t")
 		
 		 se (m4[linha][coluna] == num){
-		 	escreva("Número escontrado na posição: [", linha, "]", coluna, "]\n" )
+		 	escreva("Número escontrado na posição: [", linha, "]","[", coluna, "]\n" )
 		 	encontrado = verdadeiro
 		 	
 		 }
@@ -30,7 +30,7 @@ logico encontrado = falso
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 559; 
+ * @POSICAO-CURSOR = 443; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {m4, 3, 8, 2};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
