@@ -17,11 +17,7 @@ programa
   }
 
 	funcao logico podeMatricular(inteiro yo){
-    se (yo >= 16) {
-		retorne verdadeiro
-    } senao {
-      retorne falso
-    }
+    retorne yo >= 16
 		}
 }
 
